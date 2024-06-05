@@ -31,7 +31,7 @@
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/your-repo/railway-visualization.git
+git clone https://github.com/Yuki-zik/railway-visualization.git
 cd railway-visualization
 ```
 
