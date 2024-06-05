@@ -6,7 +6,7 @@
 
 本项目利用A*算法和Dash框架，实现了中国前500城市之间铁路连接的最短路径求解和可视化。用户可以在界面中选择起点和终点，实时计算并显示最短路径，同时展示各个城市的铁路连接情况。
 <div style="display:flex; justify-content:center;">
-    <img src="picture/image1.png" alt="Image text" style="width:300px;">
+    <img src="image.png" alt="Image text" style="width:300px;">
 </div>
 
 ## 功能
